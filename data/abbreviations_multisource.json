@@ -1,0 +1,1756 @@
+{
+  "ACE": [
+    {
+      "nghia": "Angiotensin Converting Enzyme",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "aCL": [
+    {
+      "nghia": "Kháng cardiolipin",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "ACP": [
+    {
+      "nghia": "Lập kế hoạch chăm sóc y tế cho tương lai",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "ACR": [
+    {
+      "nghia": "Hội thấp khớp học Hoa Kỳ",
+      "chuyen_khoa": "Cơ xương khớp"
+    },
+    {
+      "nghia": "Hội Thấp học Hoa Kỳ",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "ACT": [
+    {
+      "nghia": "Thời gian máu đông hoạt hóa",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "AD": [
+    {
+      "nghia": "Chỉ thị chăm sóc y tế cho tương lai",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "AFP": [
+    {
+      "nghia": "Alpha feto protein",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "AGEP": [
+    {
+      "nghia": "Ban dạng mụn mủ cấp tính",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "AIDS": [
+    {
+      "nghia": "Hội chứng suy giảm miễn dịch mắc phải",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "ALI": [
+    {
+      "nghia": "Tổn thương phổi cấp",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "ALIP": [
+    {
+      "nghia": "Khu trú bất thường của các tế bào đầu dòng chưa trưởng thành",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "ALL": [
+    {
+      "nghia": "Lơ xê mi lympho cấp (bệnh bạch cầu cấp dòng lympho)",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "ALNS": [
+    {
+      "nghia": "Áp lực nội sọ",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "ALT": [
+    {
+      "nghia": "Alanine transaminase",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "ALTMTT": [
+    {
+      "nghia": "Áp lực tĩnh mạch trung tâm",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "ALTT": [
+    {
+      "nghia": "Áp lực thẩm thấu",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "AML": [
+    {
+      "nghia": "Lơ xê mi tủy cấp (bệnh bạch cầu cấp dòng tủy)",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "ANA": [
+    {
+      "nghia": "Kháng thể kháng nhân",
+      "chuyen_khoa": "Dị ứng, Huyết học"
+    }
+  ],
+  "Anti CCP": [
+    {
+      "nghia": "Anti - Cyclic Citrullinated Peptid",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "anti-Sm": [
+    {
+      "nghia": "Kháng kháng nguyên Smith",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "APL": [
+    {
+      "nghia": "Lơ xê mi cấp thể tiền tủy bào",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "aPL": [
+    {
+      "nghia": "Kháng phospholipid",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "APS": [
+    {
+      "nghia": "Hội chứng kháng phospholipid",
+      "chuyen_khoa": "Dị ứng"
+    },
+    {
+      "nghia": "Hội chứng Anti phospholipid",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "APTT": [
+    {
+      "nghia": "Thời gian thromboplastin một phần hoạt hóa",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "ARB": [
+    {
+      "nghia": "Angiotensin Receptor Blockers",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "ARDS": [
+    {
+      "nghia": "Hội chứng suy hô hấp cấp tiến triển",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "ASLO": [
+    {
+      "nghia": "Anti Streptolysin O",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "AST": [
+    {
+      "nghia": "Aspartate transaminase",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "ATG": [
+    {
+      "nghia": "Anti-Thymocyte Globuline",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "AVN": [
+    {
+      "nghia": "Hoại tử vô mạch",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "BASDAI": [
+    {
+      "nghia": "Chỉ số đánh giá mức độ hoạt động của bệnh viêm cột sống dính khớp",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "BASFI": [
+    {
+      "nghia": "Chỉ số đánh giá chức năng ở bệnh nhân viêm cột sống dính khớp",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "BC": [
+    {
+      "nghia": "Bạch cầu",
+      "chuyen_khoa": "Y học hạt nhân, Dị ứng"
+    }
+  ],
+  "BCĐNTT": [
+    {
+      "nghia": "Bạch cầu đa nhân trung tính",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "BiPAP": [
+    {
+      "nghia": "Áp lực đường thở dương với hai mức áp lực",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "BMC": [
+    {
+      "nghia": "Khối lượng xương",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "BMD": [
+    {
+      "nghia": "Mật độ xương",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "BMI": [
+    {
+      "nghia": "Chỉ số khối cơ thể",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "BN": [
+    {
+      "nghia": "Người bệnh",
+      "chuyen_khoa": "Chẩn đoán hình ảnh, Giải phẫu bệnh - Tế bào, Dị ứng"
+    }
+  ],
+  "BNP": [
+    {
+      "nghia": "Yếu tố thải natri não-niệu",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "BPI": [
+    {
+      "nghia": "Bảng kiểm đau rút gọn",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "BPTNMT": [
+    {
+      "nghia": "Bệnh phổi tắc nghẽn mạn tính",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "BS": [
+    {
+      "nghia": "Bác sĩ",
+      "chuyen_khoa": "Chẩn đoán hình ảnh"
+    }
+  ],
+  "BTM": [
+    {
+      "nghia": "Bệnh thận mạn",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "C": [
+    {
+      "nghia": "Bổ thể",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "CAPS": [
+    {
+      "nghia": "Hội chứng kháng phospholipid nguy kịch",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "CCGTP": [
+    {
+      "nghia": "Cường cận giáp thứ phát",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "CHT": [
+    {
+      "nghia": "Cộng hưởng từ",
+      "chuyen_khoa": "Chẩn đoán hình ảnh"
+    }
+  ],
+  "CHW": [
+    {
+      "nghia": "Nhân viên chăm sóc sức khỏe cộng đồng",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "CISH": [
+    {
+      "nghia": "Lai tại chỗ gắn chất màu",
+      "chuyen_khoa": "Giải phẫu bệnh - Tế bào"
+    }
+  ],
+  "CK": [
+    {
+      "nghia": "Creatinin kinase",
+      "chuyen_khoa": "Cơ xương khớp"
+    },
+    {
+      "nghia": "Creatine Kinase",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "CLL": [
+    {
+      "nghia": "Lơ xê mi lympho mạn (bệnh bạch cầu mạn dòng lympho)",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "CLVT": [
+    {
+      "nghia": "Cắt lớp vi tính",
+      "chuyen_khoa": "Chẩn đoán hình ảnh"
+    }
+  ],
+  "CML": [
+    {
+      "nghia": "Lơ xê mi tủy mạn (bệnh bạch cầu mạn dòng tủy)",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "CMML": [
+    {
+      "nghia": "Lơ xê mi tủy - mono mạn (bệnh bạch cầu mạn dòng tủy - mono)",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "CMV": [
+    {
+      "nghia": "Cytomegalovirus",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "COPD": [
+    {
+      "nghia": "Bệnh phổi tắc nghẽn mạn tính",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ, Dị ứng"
+    }
+  ],
+  "COX-2": [
+    {
+      "nghia": "Nhóm thuốc ức chế ưu thế (chọn lọc) COX-2",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "COX2": [
+    {
+      "nghia": "Cyclo-oxygenase",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "CPAP": [
+    {
+      "nghia": "Áp lực đường thở dương liên tục",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "CPP": [
+    {
+      "nghia": "Áp lực tưới máu não",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "CPR": [
+    {
+      "nghia": "Hồi sinh tim phổi",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "CR": [
+    {
+      "nghia": "Lui bệnh hoàn toàn",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "CRIES": [
+    {
+      "nghia": "Thang điểm đánh giá đau khách quan ở trẻ sơ sinh. Khóc, Yêu cầu tăng cường cung cấp oxy, Tăng các dấu hiệu sinh tồn, Biểu hiện, Mất ngủ",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "CRP": [
+    {
+      "nghia": "C reaction protein",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "CSGN": [
+    {
+      "nghia": "Chăm sóc giảm nhẹ",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "CSTL": [
+    {
+      "nghia": "Cột sống thắt lưng",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "CT": [
+    {
+      "nghia": "Computer Tomography Scan",
+      "chuyen_khoa": "Cơ xương khớp"
+    },
+    {
+      "nghia": "Chụp cắt lớp điện toán",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    },
+    {
+      "nghia": "Chụp cắt lớp vi tính",
+      "chuyen_khoa": "Y học hạt nhân"
+    },
+    {
+      "nghia": "Thời gian tạo nút cầm máu tiểu cầu",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "CT scan": [
+    {
+      "nghia": "Computer Tomography Scan",
+      "chuyen_khoa": "Cơ xương khớp"
+    },
+    {
+      "nghia": "Chụp cắt lớp vi tính",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "CTM": [
+    {
+      "nghia": "Công thức máu",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "CTNT": [
+    {
+      "nghia": "Chạy thận nhân tạo",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "CVVH": [
+    {
+      "nghia": "Lọc máu tĩnh mạc-tĩnh mạch liên tục",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "DCPX": [
+    {
+      "nghia": "Dược chất phóng xạ",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "DIC": [
+    {
+      "nghia": "Đông máu rải rác trong lòng mạch",
+      "chuyen_khoa": "Hồi sức tích cực, Huyết học"
+    }
+  ],
+  "DiHS/DRESS": [
+    {
+      "nghia": "Hội chứng quá mẫn do thuốc/ Hội chứng dị ứng thuốc có tăng bạch cầu ái toan",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "DLCO": [
+    {
+      "nghia": "Khả năng khuếch tán CO qua phổi",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "DMARDs": [
+    {
+      "nghia": "Nhóm thuốc chống thấp khớp tác dụng chậm",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "DN": [
+    {
+      "nghia": "Dị nguyên",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "DNA": [
+    {
+      "nghia": "Deoxyribonucleic Acid",
+      "chuyen_khoa": "Giải phẫu bệnh - Tế bào"
+    }
+  ],
+  "DNTB": [
+    {
+      "nghia": "Dịch ngoài tế bào",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "DOT": [
+    {
+      "nghia": "Điều trị giám sát trực tiếp",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "ds-DNA": [
+    {
+      "nghia": "Chuỗi kép DNA",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "DSA": [
+    {
+      "nghia": "Chụp mạch số hóa xóa nền",
+      "chuyen_khoa": "Chẩn đoán hình ảnh"
+    }
+  ],
+  "DXA": [
+    {
+      "nghia": "Phương pháp đo hấp phụ tia X năng lượng kép",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "ECMO": [
+    {
+      "nghia": "Trao đổi ôxy qua màng ngoài cơ thể hay tim phổi nhân tạo tại giường",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "ECOG": [
+    {
+      "nghia": "Cơ quan hợp tác về ung thư phía Đông Hoa Kỳ",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "ELISA": [
+    {
+      "nghia": "Xét nghiệm miễn dịch gắn enzyme",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "EPAP": [
+    {
+      "nghia": "Áp lực dương thì thở ra",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "ESBL": [
+    {
+      "nghia": "Men lactamase phổ rộng",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "ESR": [
+    {
+      "nghia": "Tốc độ máu lắng",
+      "chuyen_khoa": "Cơ xương khớp, Dị ứng"
+    }
+  ],
+  "ESRD": [
+    {
+      "nghia": "End-Stage-Renal- Disease",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "ET": [
+    {
+      "nghia": "Tăng tiểu cầu tiên phát",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "EULAR": [
+    {
+      "nghia": "Liên đoàn chống thấp khớp Châu Âu",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "FEV1": [
+    {
+      "nghia": "Thể tích khí thở ra tối đa trong giây đầu tiên",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "FiO2": [
+    {
+      "nghia": "Nồng độ ôxy khí thở vào",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "FISH": [
+    {
+      "nghia": "Lai tại chỗ gắn huỳnh quang",
+      "chuyen_khoa": "Giải phẫu bệnh - Tế bào"
+    },
+    {
+      "nghia": "Kỹ thuật lai huỳnh quang tại chỗ",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "FLACC": [
+    {
+      "nghia": "Thang điểm đánh giá đau khách quan ở trẻ nhỏ bằng quan sát Mặt, Chân, Hoạt động, Khóc và Khả năng dỗ dành",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "FNA": [
+    {
+      "nghia": "Hút kim nhỏ",
+      "chuyen_khoa": "Giải phẫu bệnh - Tế bào"
+    }
+  ],
+  "G6PD": [
+    {
+      "nghia": "Men glucose-6 phosphate dehydrogenase",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "GC": [
+    {
+      "nghia": "Glucocorticoid",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "GCT": [
+    {
+      "nghia": "U tế bào khổng lồ",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "GFR": [
+    {
+      "nghia": "Mức lọc cầu thận",
+      "chuyen_khoa": "Cơ xương khớp"
+    },
+    {
+      "nghia": "Glomerular Filtration Rate",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "GGT": [
+    {
+      "nghia": "Gamma-glutamyl Transferase",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "GINA": [
+    {
+      "nghia": "Tổ chức toàn cầu phòng chống hen",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "GP": [
+    {
+      "nghia": "Glycoprotein",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "GT": [
+    {
+      "nghia": "Glutamyltranspeptidase transaminase",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "GVHD": [
+    {
+      "nghia": "Bệnh ghép chống chủ",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "HA": [
+    {
+      "nghia": "Huyết áp",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "HATB": [
+    {
+      "nghia": "Huyết áp trung bình",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "HATT": [
+    {
+      "nghia": "Huyết áp tâm thu",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "HATTr": [
+    {
+      "nghia": "Huyết áp tâm trương",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "Hb": [
+    {
+      "nghia": "Huyết sắc tố",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "HC": [
+    {
+      "nghia": "Hồng cầu",
+      "chuyen_khoa": "Y học hạt nhân, Dị ứng, Huyết học"
+    }
+  ],
+  "HCC": [
+    {
+      "nghia": "Ung thư biểu mô tế bào gan",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "HCGT": [
+    {
+      "nghia": "Hội chứng gan thận",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "HCL": [
+    {
+      "nghia": "Lơ xê mi tế bào tóc",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "HDL-C": [
+    {
+      "nghia": "Cholesterol Liprotein tỉ trọng cao",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "HE": [
+    {
+      "nghia": "Hematoxylin - Eosin",
+      "chuyen_khoa": "Giải phẫu bệnh - Tế bào"
+    }
+  ],
+  "HIDA": [
+    {
+      "nghia": "Hepatobiliary Iminodiacetic",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "HIT": [
+    {
+      "nghia": "Giảm tiểu cầu do heparin",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "HIV": [
+    {
+      "nghia": "Virus gây suy giảm miễn dịch ở người",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "HLA": [
+    {
+      "nghia": "Kháng nguyên bạch cầu người",
+      "chuyen_khoa": "Cơ xương khớp, Huyết học"
+    }
+  ],
+  "HLH": [
+    {
+      "nghia": "Hội chứng thực bào tế bào máu",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "HMMD": [
+    {
+      "nghia": "Hóa mô miễn dịch",
+      "chuyen_khoa": "Giải phẫu bệnh - Tế bào"
+    }
+  ],
+  "HP": [
+    {
+      "nghia": "Helicobacter pylori",
+      "chuyen_khoa": "Giải phẫu bệnh - Tế bào"
+    }
+  ],
+  "HPQ": [
+    {
+      "nghia": "Hen phế quản",
+      "chuyen_khoa": "Dị ứng, Hồi sức tích cực"
+    }
+  ],
+  "HUS": [
+    {
+      "nghia": "Hội chứng tan máu tăng ure huyết",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "HĐPN": [
+    {
+      "nghia": "Huy động phế nang",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "HĐPX": [
+    {
+      "nghia": "Hoạt độ phóng xạ",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "IASP": [
+    {
+      "nghia": "Hiệp hội nghiên cứu đau quốc tế",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "ICS": [
+    {
+      "nghia": "Corticosteroid dạng hít",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "Ig": [
+    {
+      "nghia": "Globulin miễn dịch",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "IL": [
+    {
+      "nghia": "Interleukin",
+      "chuyen_khoa": "Cơ xương khớp, Dị ứng"
+    }
+  ],
+  "ILAR": [
+    {
+      "nghia": "Hội thấp khớp học thế giới",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "IPAP": [
+    {
+      "nghia": "Áp lực dương thì thở vào",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "IT": [
+    {
+      "nghia": "Nội tủy",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "ITP": [
+    {
+      "nghia": "Ban xuất huyết giảm tiểu cầu miễn dịch",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "IVIg": [
+    {
+      "nghia": "Globulin miễn dịch truyền tĩnh mạch",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "KDIGO": [
+    {
+      "nghia": "Kidney Disease Improving Global Outcomes",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "KN": [
+    {
+      "nghia": "Kháng nguyên",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "KS": [
+    {
+      "nghia": "Kháng sinh",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "KT": [
+    {
+      "nghia": "Kháng thể",
+      "chuyen_khoa": "Y học hạt nhân, Dị ứng"
+    }
+  ],
+  "KTĐD": [
+    {
+      "nghia": "Kháng thể đơn dòng",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "KVKS": [
+    {
+      "nghia": "Kháng viêm không steroid",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "LA": [
+    {
+      "nghia": "Chất chống đông luput",
+      "chuyen_khoa": "Dị ứng"
+    },
+    {
+      "nghia": "Chất kháng đông lupus",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "LABA": [
+    {
+      "nghia": "Thuốc kích thích β2 tác dụng kéo dài",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "LBĐHT": [
+    {
+      "nghia": "Luput ban đỏ hệ thống",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "LDH": [
+    {
+      "nghia": "Lactic acid dehydrogenase",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "LDL-C": [
+    {
+      "nghia": "Cholesterol Liprotein tỉ trọng thấp",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "LNM": [
+    {
+      "nghia": "Lạc nội mạc",
+      "chuyen_khoa": "Chẩn đoán hình ảnh"
+    }
+  ],
+  "LS": [
+    {
+      "nghia": "Lâm sàng",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "LT": [
+    {
+      "nghia": "Leukotriene",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "LTT": [
+    {
+      "nghia": "Xét nghiệm chuyển dạng lympho bào",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "MARS": [
+    {
+      "nghia": "Lọc máu hấp phụ phân tử tái tuần hoàn",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "MAS": [
+    {
+      "nghia": "Đại thực bào",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "Max": [
+    {
+      "nghia": "Lớn nhất",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "MBq": [
+    {
+      "nghia": "Mega Becquerel",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "MCH": [
+    {
+      "nghia": "Lượng huyết sắc tố trung bình hồng cầu",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "MCHC": [
+    {
+      "nghia": "Nồng độ huyết sắt tố trung bình của hồng cầu",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "MCTD": [
+    {
+      "nghia": "Bệnh mô liên kết hỗn hợp",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "MCV": [
+    {
+      "nghia": "Thể tích trung bình khối hồng cầu",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "MDI": [
+    {
+      "nghia": "Bình xịt định liều chuẩn",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "MDR-TB": [
+    {
+      "nghia": "Lao đa kháng thuốc",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "MDS": [
+    {
+      "nghia": "Hội chứng rối loạn sinh tủy",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "MDĐH": [
+    {
+      "nghia": "Miễn dịch đặc hiệu",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "MetHb": [
+    {
+      "nghia": "Methemoglobin",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "MIBG": [
+    {
+      "nghia": "Metaiodobenzylguanidine",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "MIBI": [
+    {
+      "nghia": "Methoxy Isobutyl Isonitrile",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "Min": [
+    {
+      "nghia": "Bé nhất",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "MLCT": [
+    {
+      "nghia": "Mức lọc cầu thận",
+      "chuyen_khoa": "Thận - Tiết niệu, Dị ứng"
+    }
+  ],
+  "MM": [
+    {
+      "nghia": "Đa u tủy xương",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "MPDs": [
+    {
+      "nghia": "Các bệnh tăng sinh tủy",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "MPE": [
+    {
+      "nghia": "Ban dạng sẩn",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "MPNs": [
+    {
+      "nghia": "Các bệnh tăng sinh tủy ác tính",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "MRD": [
+    {
+      "nghia": "Tồn dư tối thiểu của bệnh",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "MRI": [
+    {
+      "nghia": "Cộng hưởng từ",
+      "chuyen_khoa": "Cơ xương khớp"
+    },
+    {
+      "nghia": "Chụp cộng hưởng từ",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    },
+    {
+      "nghia": "Hình ảnh cộng hưởng từ",
+      "chuyen_khoa": "Dị ứng"
+    },
+    {
+      "nghia": "Chụp cộng hưởng từ hạt nhân",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "MTX": [
+    {
+      "nghia": "Methotrexate",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "NHL": [
+    {
+      "nghia": "U lympho ác tính không Hodgkin",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "NK": [
+    {
+      "nghia": "Tế bào diệt tự nhiên",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "NRS": [
+    {
+      "nghia": "Thang đánh giá bằng số",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "NSAID": [
+    {
+      "nghia": "Thuốc kháng viêm không steroid",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "NSAIDs": [
+    {
+      "nghia": "Thuốc chống viêm không steroid",
+      "chuyen_khoa": "Cơ xương khớp"
+    },
+    {
+      "nghia": "Các thuốc chống viêm không steroid",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "NST": [
+    {
+      "nghia": "Nhiễm sắc thể",
+      "chuyen_khoa": "Giải phẫu bệnh - Tế bào, Huyết học"
+    }
+  ],
+  "OI": [
+    {
+      "nghia": "Bất toàn tạo xương hay xương thủy tinh",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "PaCO2": [
+    {
+      "nghia": "Áp lực riêng phần CO2 trong máu động mạch",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "PaO2": [
+    {
+      "nghia": "Áp lực riêng phần oxy trong máu động mạch",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "PAP": [
+    {
+      "nghia": "Papanicolaou",
+      "chuyen_khoa": "Giải phẫu bệnh - Tế bào"
+    }
+  ],
+  "PAS": [
+    {
+      "nghia": "Periodic Acid Shiff",
+      "chuyen_khoa": "Giải phẫu bệnh - Tế bào"
+    }
+  ],
+  "PC": [
+    {
+      "nghia": "Protein C",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "PCA": [
+    {
+      "nghia": "Giảm đau do người bệnh kiểm soát",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "PCC": [
+    {
+      "nghia": "Phức hợp prothrombin cô đặc",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "PCL": [
+    {
+      "nghia": "Lơ xê mi tế bào dòng plasmo",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "PCR": [
+    {
+      "nghia": "Phản ứng chuỗi polymerase",
+      "chuyen_khoa": "Giải phẫu bệnh - Tế bào"
+    },
+    {
+      "nghia": "Phản ứng tổng hợp chuỗi",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "PEEP": [
+    {
+      "nghia": "Áp lực dương cuối thì thở ra",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "PEF": [
+    {
+      "nghia": "Lưu lượng đỉnh",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "PET": [
+    {
+      "nghia": "Chụp xạ hình cắt lớp positron",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "PET/CT": [
+    {
+      "nghia": "Chụp xạ hình cắt lớp positron/ chụp cắt lớp vi tính",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "PEX": [
+    {
+      "nghia": "Thay huyết tương",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "PFA": [
+    {
+      "nghia": "Đánh giá tổng quát chức năng tiểu cầu",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "PM": [
+    {
+      "nghia": "Viêm đa cơ",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "PMF": [
+    {
+      "nghia": "Xơ tủy nguyên phát",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "PNH": [
+    {
+      "nghia": "Đái huyết sắc tố kịch phát ban đêm",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "PPC": [
+    {
+      "nghia": "Chăm sóc giảm nhẹ nhi",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "PPS": [
+    {
+      "nghia": "Thang điểm Chức năng Giảm nhẹ",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "Pro BNP": [
+    {
+      "nghia": "N-terminal pro B-type natriuretic peptide",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "PS": [
+    {
+      "nghia": "Protein S",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "PT": [
+    {
+      "nghia": "Thời gian prothrombin",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "PTH": [
+    {
+      "nghia": "Parathoid hormone",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "PTSD": [
+    {
+      "nghia": "Rối loạn Stress sau sang chấn",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "PV": [
+    {
+      "nghia": "Đa hồng cầu nguyên phát",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "QC": [
+    {
+      "nghia": "Kiểm tra chất lượng",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "RDW": [
+    {
+      "nghia": "Dải phân bố kích thước hồng cầu",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "RF": [
+    {
+      "nghia": "Yếu tố dạng thấp",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "RIA": [
+    {
+      "nghia": "Định lượng phóng xạ miễn dịch",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "RNA": [
+    {
+      "nghia": "Ribonucleic acid",
+      "chuyen_khoa": "Giải phẫu bệnh - Tế bào"
+    }
+  ],
+  "SABA": [
+    {
+      "nghia": "Thuốc kích thích β2 tác dụng nhanh",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "SaO2": [
+    {
+      "nghia": "Độ bão hoà ôxy máu động mạch",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "SC": [
+    {
+      "nghia": "Keo phóng xạ",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "SERMs": [
+    {
+      "nghia": "Chất điều hoà chọn lọc thụ thể Estrogen",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "SGC": [
+    {
+      "nghia": "Suy gan cấp",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "SGOT": [
+    {
+      "nghia": "Serum Glutamic-oxaloacetic Transaminase",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "SGPT": [
+    {
+      "nghia": "Serum Glutamate pyruvate Transaminase",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "SJS/TEN": [
+    {
+      "nghia": "Hội chứng Stevens-Johnson / Hội chứng Lyell",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "SLE": [
+    {
+      "nghia": "Lupus ban đỏ hệ thống",
+      "chuyen_khoa": "Cơ xương khớp"
+    },
+    {
+      "nghia": "Luput ban đỏ hệ thống",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "SOP": [
+    {
+      "nghia": "Qui trình thao tác chuẩn",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "SPECT": [
+    {
+      "nghia": "Xạ hình cắt lớp đơn photon",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "SpO2": [
+    {
+      "nghia": "Độ bão hoà ôxy máu ngoại vi",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "SPV": [
+    {
+      "nghia": "Sốc phản vệ",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "SSc": [
+    {
+      "nghia": "Xơ cứng bì hệ thống",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "STM": [
+    {
+      "nghia": "Suy thận mạn",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "TB": [
+    {
+      "nghia": "Tiêm bắp",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    },
+    {
+      "nghia": "Trung bình",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    },
+    {
+      "nghia": "Tế Bào",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "TC": [
+    {
+      "nghia": "Tiểu cầu",
+      "chuyen_khoa": "Y học hạt nhân, Dị ứng"
+    }
+  ],
+  "TCG": [
+    {
+      "nghia": "Tuyến cận giáp",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "TCV": [
+    {
+      "nghia": "Tiêu cơ vân",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "TCVTC": [
+    {
+      "nghia": "Tử cung - vòi tử cung",
+      "chuyen_khoa": "Chẩn đoán hình ảnh"
+    }
+  ],
+  "TD": [
+    {
+      "nghia": "Tác dụng",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "TDD": [
+    {
+      "nghia": "Tiêm dưới da",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "TEG": [
+    {
+      "nghia": "Đàn hồi đồ cục máu",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "THA": [
+    {
+      "nghia": "Tăng huyết áp",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "TKMP": [
+    {
+      "nghia": "Tràn khí màng phổi",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "TLD": [
+    {
+      "nghia": "Test lẩy da",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "TM": [
+    {
+      "nghia": "Tĩnh mạch",
+      "chuyen_khoa": "Cơ xương khớp, Chẩn đoán hình ảnh, Dị ứng, Huyết học"
+    }
+  ],
+  "TMC": [
+    {
+      "nghia": "Tiêm mạch chậm",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    },
+    {
+      "nghia": "Tĩnh mạch chậm",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "TMDD": [
+    {
+      "nghia": "Thiếu máu dai dẳng",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "TNFα": [
+    {
+      "nghia": "Yếu tố hoại tử u alpha",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "TNT": [
+    {
+      "nghia": "Thận nhân tạo",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "TPPM": [
+    {
+      "nghia": "Thẩm phân phúc mạc",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "TPX": [
+    {
+      "nghia": "Thuốc phóng xạ",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "TT": [
+    {
+      "nghia": "Thời gian Thrombin",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "TTP": [
+    {
+      "nghia": "Ban xuất huyết giảm tiểu cầu huyết khối",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "TĐML": [
+    {
+      "nghia": "Tốc độ máu lắng",
+      "chuyen_khoa": "Cơ xương khớp"
+    }
+  ],
+  "UCTT": [
+    {
+      "nghia": "Ức chế thụ thể",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "UCTTC": [
+    {
+      "nghia": "U cơ trơn tử cung",
+      "chuyen_khoa": "Chẩn đoán hình ảnh"
+    }
+  ],
+  "UT": [
+    {
+      "nghia": "Ung thư",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "VAS": [
+    {
+      "nghia": "Thang đánh giá bằng thị giác",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "VCT": [
+    {
+      "nghia": "Viêm cầu thận",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "VCTM": [
+    {
+      "nghia": "Viêm cầu thận mạn",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "VDCĐ": [
+    {
+      "nghia": "Viêm da cơ địa",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "VDDƯ": [
+    {
+      "nghia": "Viêm da dị ứng",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "VGTM": [
+    {
+      "nghia": "Viêm gan tự miễn",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "VietPOS": [
+    {
+      "nghia": "Thang đo kết quả chăm sóc giảm nhẹ dành cho người Việt Nam",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "VK": [
+    {
+      "nghia": "Vi khuẩn",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "VKDT": [
+    {
+      "nghia": "Viêm khớp dạng thấp",
+      "chuyen_khoa": "Cơ xương khớp, Dị ứng"
+    }
+  ],
+  "VKM": [
+    {
+      "nghia": "Viêm kết mạc",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "VMDƯ": [
+    {
+      "nghia": "Viêm mũi dị ứng",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "VTBT": [
+    {
+      "nghia": "Viêm thận bể thận",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "VTC": [
+    {
+      "nghia": "Viêm tụy cấp",
+      "chuyen_khoa": "Hồi sức tích cực"
+    }
+  ],
+  "vWD": [
+    {
+      "nghia": "Bệnh von Willebrand",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "WAO": [
+    {
+      "nghia": "Tổ chức Dị ứng Thế giới",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "WHO": [
+    {
+      "nghia": "Tổ chức Y tế Thế giới",
+      "chuyen_khoa": "Cơ xương khớp"
+    },
+    {
+      "nghia": "Tổ chức y tế thế giới",
+      "chuyen_khoa": "Huyết học"
+    }
+  ],
+  "XCB": [
+    {
+      "nghia": "Xơ cứng bì",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "XDR-TB": [
+    {
+      "nghia": "Lao siêu kháng thuốc",
+      "chuyen_khoa": "Chăm sóc giảm nhẹ"
+    }
+  ],
+  "XN": [
+    {
+      "nghia": "Xét nghiệm",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ],
+  "ĐM": [
+    {
+      "nghia": "Động mạch",
+      "chuyen_khoa": "Chẩn đoán hình ảnh"
+    }
+  ],
+  "ĐTĐ": [
+    {
+      "nghia": "Đái tháo đường",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "ĐVPX": [
+    {
+      "nghia": "Đồng vị phóng xạ",
+      "chuyen_khoa": "Y học hạt nhân"
+    }
+  ],
+  "ƯCCC": [
+    {
+      "nghia": "Ức chế canci",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "ƯCMC": [
+    {
+      "nghia": "Ức chế men chuyển",
+      "chuyen_khoa": "Thận - Tiết niệu"
+    }
+  ],
+  "β2GPL": [
+    {
+      "nghia": "β2 - glycoprotein - L",
+      "chuyen_khoa": "Dị ứng"
+    }
+  ]
+}

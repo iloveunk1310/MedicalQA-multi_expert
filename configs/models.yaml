@@ -1,0 +1,86 @@
+# Khai báo các model muốn thử trong pilot.
+# backend: "openai_compatible" dùng chung cho OpenAI, OpenRouter, Together,
+# Groq, hoặc vLLM/Ollama tự host — chỉ cần endpoint tuân chuẩn /chat/completions.
+#
+# Gợi ý bộ model pilot (cân bằng giữa chi phí và độ bao phủ khả năng tiếng Việt):
+#   - 1 model mạnh làm "mốc trần" tham khảo (có thể bỏ nếu ngân sách hạn chế)
+#   - 2-3 model mã nguồn mở có hỗ trợ tiếng Việt, kích thước khác nhau
+#     để so sánh đánh đổi chất lượng/chi phí
+
+models:
+
+
+  - name: qwen2.5-7b-instruct
+    backend: local_hf
+    model_id: Qwen/Qwen2.5-7B-Instruct   # repo HF chính thức, không gated — không cần HF_TOKEN
+    max_tokens: 1024
+    temperature: 0.0
+    device: auto
+    quantization: null     # bỏ (null) nếu Colab Pro cấp A100/L4 VRAM lớn, muốn giữ bf16 đầy đủ
+    batch_size: 8           # tăng 8-16 nếu VRAM dư dả
+    note: "Ứng viên chính cho ECoT sau này — cần hỗ trợ tiếng Việt tốt + chi phí thấp, chạy local qua Colab/Kaggle"
+
+  - name: seallm-v3-7b-chat
+    backend: local_hf
+    model_id: SeaLLMs/SeaLLMs-v3-7B-Chat   # repo HF chính thức (tổ chức "SeaLLMs", không phải "sea-lion")
+    max_tokens: 1024
+    temperature: 0.0
+    device: auto
+    quantization: null
+    batch_size: 8
+    note: "Model tối ưu riêng cho Đông Nam Á (có tiếng Việt) — so sánh với Qwen tổng quát, chạy local"
+    
+  - name: qwen3-8b
+    backend: local_hf
+    model_id: Qwen/Qwen3-8B   # repo HF chính thức, không gated — không cần HF_TOKEN
+    max_tokens: 1024
+    temperature: 0.0
+    device: auto
+    quantization: null     # bỏ (null) nếu Colab Pro cấp A100/L4 VRAM lớn, muốn giữ bf16 đầy đủ
+    batch_size: 8           # tăng 8-16 nếu VRAM dư dả
+    note: "bản gốc CAMEC"
+    
+  - name: llama
+    backend: local_hf
+    model_id: meta-llama/Llama-3.1-8B-Instruct   # gated, cần token
+    max_tokens: 1024
+    temperature: 0.0
+    device: auto
+    quantization: null     # bỏ (null) nếu Colab Pro cấp A100/L4 VRAM lớn, muốn giữ bf16 đầy đủ
+    hf_token_env: "HF_TOKEN"
+    batch_size: 8           # tăng 8-16 nếu VRAM dư dả
+    note: "dùng so sánh"
+    
+  - name: qwen2.5-14b-instruct
+    backend: local_hf
+    model_id: Qwen/Qwen2.5-14B-Instruct   # repo HF chính thức, không gated — không cần HF_TOKEN
+    max_tokens: 1024
+    temperature: 0.0
+    device: auto
+    quantization: null     # bỏ (null) nếu Colab Pro cấp A100/L4 VRAM lớn, muốn giữ bf16 đầy đủ
+    batch_size: 8           # tăng 8-16 nếu VRAM dư dả
+    note: "Bản nặng của qwen 2.5"
+    
+  - name: genma
+    backend: local_hf
+    model_id: google/gemma-3-12b-it   # gated, cần token
+    max_tokens: 1024
+    temperature: 0.0
+    device: auto
+    quantization: null     # bỏ (null) nếu Colab Pro cấp A100/L4 VRAM lớn, muốn giữ bf16 đầy đủ
+    hf_token_env: "HF_TOKEN"
+    batch_size: 8           # tăng 8-16 nếu VRAM dư dả
+    note: "Đối trọng mạnh của qwen, tăng điểm"
+    
+  - name: qwen3-30b-a3b
+    backend: local_hf
+    model_id: Qwen/Qwen3-30B-A3B-Instruct-2507   # repo HF chính thức, không gated — không cần HF_TOKEN
+    max_tokens: 1024
+    temperature: 0.0
+    device: auto
+    quantization: null     # bỏ (null) nếu Colab Pro cấp A100/L4 VRAM lớn, muốn giữ bf16 đầy đủ
+    batch_size: 8           # tăng 8-16 nếu VRAM dư dả
+    note: "Nặng nhưng rất nhanh, dùng để gán nhãn/đánh giá"
+    
+
+

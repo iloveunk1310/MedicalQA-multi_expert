@@ -1,0 +1,68 @@
+{
+  "child_length_mode": "subword",
+  "elapsed_seconds": 192.27,
+  "config": {
+    "parent_max_words": 512,
+    "child_max_subwords": 256,
+    "child_overlap_subwords": 48,
+    "child_max_words": 150,
+    "child_overlap_words": 30,
+    "child_length_mode": "subword",
+    "tokenizer_name": "demdecuong/vihealthbert-base-word",
+    "guidelines_path": "data/clinical_guidelines_unified.jsonl",
+    "drugs_path": "data/drug_monographs_unified.jsonl",
+    "out_dir": "data/kb",
+    "max_heading_chars": 60,
+    "workers": 4
+  },
+  "docs_total": 2126,
+  "docs_by_source": {
+    "clinical_guidelines": 1426,
+    "drug_monographs": 700
+  },
+  "docs_by_type": {
+    "clinical_guideline": 328,
+    "technical_procedure": 506,
+    "surgical_procedure": 592,
+    "drug_monograph": 700
+  },
+  "sections_processed": 13165,
+  "skipped_empty_sections": 3091,
+  "total_parents": 16454,
+  "total_children": 30971,
+  "parents_with_single_child": 8886,
+  "parents_with_multiple_children": 7568,
+  "parent_word_count_stats": {
+    "count": 16454,
+    "min": 23,
+    "p50": 190,
+    "p90": 479,
+    "p99": 510,
+    "max": 512,
+    "mean": 231.37
+  },
+  "child_word_count_stats": {
+    "count": 30971,
+    "min": 8,
+    "p50": 139,
+    "p90": 194,
+    "p99": 221,
+    "max": 243,
+    "mean": 129.54
+  },
+  "child_subword_count_stats": {
+    "count": 30971,
+    "min": 12,
+    "p50": 198,
+    "p90": 251,
+    "p99": 256,
+    "max": 256,
+    "mean": 179.41
+  },
+  "parents_over_512": 0,
+  "children_over_limit": 0,
+  "children_with_broken_table_header": 0,
+  "orphan_children": 0,
+  "childless_parents": 0,
+  "valid_parent_id_ratio": 1.0
+}
