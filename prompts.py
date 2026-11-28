@@ -14,7 +14,11 @@ Chỉ trả lời bằng một chữ cái duy nhất tương ứng với đáp �
 Định dạng bắt buộc: "Đáp án: <chữ cái>"
 """
 
-MCQ_RAG_ZEROSHOT = """Bạn là một bác sĩ chuyên khoa. Dựa vào các tài liệu y khoa chuẩn dưới đây và kiến thức chuyên môn, hãy trả lời câu hỏi trắc nghiệm sau.
+MCQ_RAG_ZEROSHOT = """Bạn là một bác sĩ chuyên khoa. Hãy vận dụng kiến thức y khoa chuyên môn và khả năng suy luận của bạn để trả lời câu hỏi trắc nghiệm sau.
+
+Dưới đây là một số đoạn trích được truy xuất tự động để bạn tham khảo thêm. Lưu ý: các đoạn trích này CHỈ mang tính chất tham khảo và có thể chứa thông tin không liên quan hoặc không đầy đủ.
+- Nếu tài liệu có thông tin trực tiếp liên quan và chính xác (như phác đồ, liều dùng, chỉ định, chống chỉ định, tiêu chuẩn chẩn đoán...), hãy kết hợp với kiến thức chuyên môn của bạn để chọn đáp án đúng.
+- Nếu tài liệu KHÔNG liên quan, thiếu thông tin hoặc mâu thuẫn với câu hỏi, hãy bỏ qua tài liệu và hoàn toàn dựa vào kiến thức y khoa cùng suy luận nội bộ của bạn.
 
 Tài liệu tham khảo:
 {context}
@@ -24,8 +28,10 @@ Câu hỏi: {question}
 Các lựa chọn:
 {options_block}
 
-Chỉ trả lời bằng một chữ cái duy nhất tương ứng với đáp án đúng (A, B, C, D...).
-Định dạng bắt buộc: "Đáp án: <chữ cái>"
+Quy tắc trả lời (bắt buộc):
+- Luôn chọn đúng một chữ cái duy nhất tương ứng với đáp án đúng nhất trong các lựa chọn trên; tuyệt đối KHÔNG từ chối trả lời hay viết "không có trong tài liệu".
+- Không giải thích, không trích dẫn lại tài liệu, không viết thêm bất kỳ nội dung nào khác.
+- Định dạng bắt buộc: "Đáp án: <chữ cái>"
 """
 
 MCQ_COT = """Bạn là bác sĩ chuyên khoa đang làm bài thi y khoa. Hãy suy luận NGẮN GỌN rồi chọn đúng một đáp án.
@@ -82,8 +88,9 @@ def format_mcq_prompt(question: str, options, strategy: str, context: str = "") 
     options_block = "\n".join(f"{k}. {v}" for k, v in pairs)
 
     if strategy == "rag":
+        safe_context = context.strip() if context and context.strip() else "(Không có tài liệu liên quan)"
         return MCQ_RAG_ZEROSHOT.format(
-            context=context or "",
+            context=safe_context,
             question=question,
             options_block=options_block,
         )
